@@ -1,0 +1,11 @@
+{
+  "physics_only": {
+    "rollout_rmse": 0.7736391650865483
+  },
+  "data_only": {
+    "rollout_rmse": 0.08475243823057294
+  },
+  "hybrid": {
+    "rollout_rmse": 0.26801848144441054
+  }
+}
